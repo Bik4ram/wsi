@@ -1,1 +1,7 @@
-# Configuration file for the project
+# Example config (optional, not required for running)
+tile_size: 1024
+overlap: 0
+epochs: 30
+batch_size: 8
+learning_rate: 0.0001
+device: cuda

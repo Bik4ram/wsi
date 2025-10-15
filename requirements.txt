@@ -1,1 +1,7 @@
-# Requirements for the project
+openslide-python
+Pillow
+numpy
+torch
+torchvision
+albumentations
+staintools# Requirements for the project
